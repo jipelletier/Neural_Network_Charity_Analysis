@@ -40,4 +40,4 @@ This project used the features provided in the dataset to create binary classifi
 - To attempt to increase model performance, I removed columns, added a layer, and removed classification and application_type which resulted in a decrease of performance. I also increased the number of neurons and layers. Increasing the epochs seemed to improve the performance but didn't hit the 75% objective.
 
 ## Summary
-Although I was unable to adjust the model to reach 75% accuracy, it was helpful to see how the asjustments contributed to the outcome. I would recommend using a linear regression model or a different machine learning model to possibly improve predictability. Given the type of data that we are analyzing, it could assist with reaching 75% accuracy.
+Although I was unable to adjust the model to reach 75% accuracy, it was helpful to see how the adjustments contributed to the outcome. I would recommend using a linear regression model or a different machine learning model to possibly improve predictability. Given the type of data that we are analyzing, it could assist with reaching 75% accuracy.
